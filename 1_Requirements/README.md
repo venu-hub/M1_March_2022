@@ -1,3 +1,4 @@
+                                    _**MATRIX CALCULATOR**_
 **Requirements
 Introduction**
 Mathematical operations are a part of our daily lives. Everyday we will be involving with various types of calculations around us. Matrices is a mathematical entity where numbers are arranged in rows and columns. A lot of applications exist with matrices in real life.The major application lies in the software industry such as development of algorithms like path finder algorithms, image processing algorithms and many more.
