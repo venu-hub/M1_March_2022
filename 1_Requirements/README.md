@@ -24,20 +24,27 @@ The system on the whole is viewed as a blackbox which accepts input of a single 
 ![SWOT](https://user-images.githubusercontent.com/59051114/160128603-2bf799df-0030-4347-bf44-f9c9391c6052.png)
 
 **4W's and 1'H**
+
 **Who:**
+
 Students who want to solve matrix related problems for their academic work
 Datascience workers working on machine learning and deep learning applications which majorly involve matrices.
 Software engineers
 Researchers and mathematicians
 **What:**
+
 Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
 **When:**
+
 Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
 Researchers can use it for getting a quick calculation output.
 Comes to a great use when calculating for matrices of huge order.
 **Where:**
+
+
 Students, employees and researchers all over the world.
 **How:**
+
 This program can be executed in a system which has Linux or Windows operating system.
 ![high level requirement](https://user-images.githubusercontent.com/59051114/160135109-520e9bd9-44fc-436b-8ea6-ae366a7d4ea2.png)
 ![low level requirement](https://user-images.githubusercontent.com/59051114/160135157-aa261e59-fdc9-4bc9-89a6-8a17820e1655.png)
