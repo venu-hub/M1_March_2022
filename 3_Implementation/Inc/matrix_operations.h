@@ -1,12 +1,4 @@
-/**
- * @file matrix_operations.h
- * @brief A program to calculate various operations on a matrix
- * @version 0.1
- * @date 2021-04-13
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #ifndef __MATRIX_OPERATIONS_H__
 #define __MATRIX_OPERATIONS_H__
 
