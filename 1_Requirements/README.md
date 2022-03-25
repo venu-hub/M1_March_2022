@@ -18,8 +18,7 @@ This program has dynamic memory allocation involved for allocating memory for th
 
 **Defining Our System**
 The system on the whole is viewed as a blackbox which accepts input of a single number. Then the mapping of the number is done so as to perform the appropriate function. Then the user will be prompted to enter the matrix size. After that the user is prompted to enter the matrix elements. The input is stored in 2D arrays which are dynamically allocated and passed to the respective functions. Then the output is printed on the screen. This whole process is in a loop until the user presses a key which will exit the program.
-**Defining Our System**
-The system on the whole is viewed as a blackbox which accepts input of a single number. Then the mapping of the number is done so as to perform the appropriate function. Then the user will be prompted to enter the matrix size. After that the user is prompted to enter the matrix elements. The input is stored in 2D arrays which are dynamically allocated and passed to the respective functions. Then the output is printed on the screen. This whole process is in a loop until the user presses a key which will exit the program.
+
 **SWOT ANALYSIS**
 ![SWOT](https://user-images.githubusercontent.com/59051114/160128603-2bf799df-0030-4347-bf44-f9c9391c6052.png)
 
